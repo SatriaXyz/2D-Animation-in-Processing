@@ -1,8 +1,11 @@
 void setup()
+
 {
+
 size(5000, 5000);
 background(255);
 noStroke();
+
 // Buat Objek  S Inisial Dengan Titik Koordinat //
 fill(0, 0, 255); //Biru
 rect(350,190,150,36);
